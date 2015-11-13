@@ -1,5 +1,4 @@
 'use strict';
-console.log(asdf);
 var MongoClient = require('mongodb').MongoClient;
 var config = require('myconfig').get('mongoDbRepair');
 var mongoConnStr = config.mongoConnectionStr;
