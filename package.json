@@ -1,0 +1,25 @@
+{
+  "name": "mongoDbRepair",
+  "version": "0.0.1",
+  "description": "Repairs mongodb to free disk",
+  "keywords": [
+    "MongodbRepair"
+  ],
+  "author": {
+    "name": "Shambhulal Verma",
+    "email": "vermaslal@gmail.com"
+  },
+  "main": "./index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vermaslal/mongoDbRepair"
+  },
+  "bugs": {
+    "url": "https://github.com/vermaslal/mongoDbRepair/issues"
+  },
+  "homepage": "https://github.com/vermaslal/mongoDbRepair"
+}
